@@ -20,13 +20,25 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with imgur 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Favorite Apps and features
+Reddit
+-Minimalist design
+
+Spotify
+-Intuitive features(made by ordinary people for ordinary people)
+
+Pinterest
+-Minimalist design
+
+My idea:
+A very versatile scheduling app
 
 ## Notes
 
